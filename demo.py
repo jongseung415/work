@@ -2,3 +2,5 @@
 
 result = "aaa"
 print(result)
+
+print("test")
